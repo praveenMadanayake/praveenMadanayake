@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-madanayake-6000a616b/)
 [![Email](https://img.shields.io/badge/Email-sidath.madanayake99%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sidath.madanayake99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-IT21181788-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IT21181788)
+[![GitHub](https://img.shields.io/badge/GitHub-praveenMadanayake-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenMadanayake)
 [![Location](https://img.shields.io/badge/Location-Sri_Lanka-00A651?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -150,7 +150,7 @@ My work sits at a rare intersection: I design **scalable REST APIs and databases
 <img src="https://github-readme-stats.vercel.app/api?username=praveenMadanayake&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenMadanayake&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=IT21181788&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
+<img src="https://streak-stats.demolab.com?user=praveenMadanayake&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
 
 </div>
 
@@ -175,6 +175,6 @@ I'm always open to discussing engineering roles, collaborations, and challenging
 
 **[LinkedIn](https://www.linkedin.com/in/praveen-madanayake-6000a616b/) · [Email](mailto:sidath.madanayake99@gmail.com) · +94 76 335 6331**
 
-<img src="https://komarev.com/ghpvc/?username=IT21181788&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=praveenMadanayake&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
