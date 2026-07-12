@@ -73,31 +73,7 @@ My work sits at a rare intersection: I design **scalable REST APIs and databases
 | **2022 – 2025** | Associate Software Engineer *(promoted from Intern)* | **Keyblezoon Pvt Ltd** | Scalable APIs, MongoDB/PostgreSQL integration, Flutter mobile apps, Python automation, AI-integrated backend utilities |
 | **2023** | Full Stack Developer Intern | **24 Street** | Responsive web apps, REST API development, Agile collaboration |
 
----
-
-## 🚀 Selected Projects
-
-### ⚙️ Industrial Pan-Tilt Servo Control System
-`C++` `EtherCAT` `Servo Drives` `Motion Control`
-> Real-time industrial controller commanding two synchronized servo axes over EtherCAT. Implemented homing procedures, profile position control, motion synchronization, and laser control integration — with hands-on debugging of servo communication and hardware faults.
-
-### 🔍 AI-Powered Patent Search Platform
-`Node.js` `PostgreSQL` `OpenAI / LLM APIs`
-> Intelligent patent search engine featuring semantic search powered by AI models. Designed scalable REST APIs and optimized PostgreSQL performance for large document datasets.
-
-### 📱 Cross-Platform Flutter Applications
-`Flutter` `Dart` `REST APIs`
-> Multiple production mobile apps with API integration, secure authentication, responsive UI, and performance optimization across Android and iOS.
-
-### 🏕️ Adventure & Outdoor Experience Management
-`MongoDB` `Express.js` `React.js` `Node.js`
-> Full MERN stack platform for managing outdoor activities — CRUD operations, image uploads, and fully responsive interfaces.
-
-### 🎓 EDUXO — Education Management System
-`Java` `Android` `MySQL`
-> Android application supporting student records, attendance tracking, grading, and communication features.
-
----
+ 
 
 ## 🛠️ Technology Stack
 
