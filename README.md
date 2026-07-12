@@ -6,10 +6,7 @@
 
 *Engineering software across every layer — from REST APIs in the cloud to real-time motion control on the machine..*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-madanayake-6000a616b/)
-[![Email](https://img.shields.io/badge/Email-sidath.madanayake99%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sidath.madanayake99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-praveenMadanayake-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenMadanayake)
-[![Location](https://img.shields.io/badge/Location-Sri_Lanka-00A651?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
 
 </div>
 
