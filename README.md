@@ -147,8 +147,8 @@ My work sits at a rare intersection: I design **scalable REST APIs and databases
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IT21181788&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21181788&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=praveenMadanayake&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenMadanayake&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=IT21181788&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
 
