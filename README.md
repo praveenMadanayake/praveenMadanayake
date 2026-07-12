@@ -119,18 +119,7 @@ My work sits at a rare intersection: I design **scalable REST APIs and databases
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=praveenMadanayake&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenMadanayake&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-
-<img src="https://streak-stats.demolab.com?user=praveenMadanayake&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
-
-</div>
-
----
 
 ## 🎯 Career Focus — 2026 and Beyond
 
