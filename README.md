@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · IoT & Industrial Automation Engineer · AI Solutions Developer
 
-*Building scalable software systems — from cloud backends to servo motors on the factory floor.*
+*Engineering software across every layer — from REST APIs in the cloud to real-time motion control on the machine..*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-madanayake-6000a616b/)
 [![Email](https://img.shields.io/badge/Email-sidath.madanayake99%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sidath.madanayake99@gmail.com)
